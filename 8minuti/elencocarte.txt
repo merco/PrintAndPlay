@@ -1,0 +1,102 @@
+https://boardgamegeek.com/thread/979746/article/12349266#12349266
+
+10 tokens (2 of each good type - there is no Gold anymore)
+
+Card List:
+
+Forest (8 cards)
+
+- Move 3 Armies  #
+- Add 3 Armies  #
+- Move 6 Armies ** #
+- Destroy 1 Army or Build City #
+- Add 2 Armies or Move 3 Armies #
+- Move 4 Armies via Ship (move over land and/or water) #
+- Build City #
+- Move 3 Armies via Ship (move over land and/or water)
+
+Score Chart:
+
+2 = 1pt
+4 = 2pts
+5 = 3pts
+6 = 5pts
+
+Carrot (10 cards)
+
+- Build City  #
+- Destroy 1 Army and Add 1 Army #
+- Add 3 Armies #
+- Move 4 Armies #
+- Move 5 Armies #
+- Add 3 Armies (Double Carrot) #
+- Move 3 Armies via Ship (move over land and/or water) #
+- Add 4 Armies or Move 2 Armies ** #
+- Move 4 Armies #
+- Build City #
+
+Score Chart:
+
+3 = 1pt
+5 = 2pts
+7 = 3pts
+8 = 5pts
+
+Anvil (9 cards)
+
+- Move 4 Armies   # 
+- Add 3 Armies or Move 4 Armies #
+- Move 5 Armies #
+- Add 3 Armies    #
+- Add 3 Armies #
+- Move 3 Armies via Ship (move over land and/or water) #
+- Build City #
+- Move 4 Armies (Double Anvil) **  #
+- Add 3 Armies or Move 3 Armies #
+
+Score Chart:
+
+2 = 1pt
+4 = 2pts
+6 = 3pts
+7 = 5pts
+
+Ore (7 cards)
+
+- Move 2 Armies  # 
+- Move 3 Armies via Ship (move over land and/or water)   #
+- Move 2 Armies via Ship (move over land and/or water) **  #
+- Move 2 Armies via Ship (move over land and/or water) #
+- Add 3 Armies #
+- Add 3 Armies #
+- Add 2 Armies #
+
+Score Chart:
+
+2 = 1pt
+3 = 2pts
+4 = 3pts
+5 = 5pts
+
+Crystal (5 cards)
+
+- Add 2 Armies # 
+- Add 2 Armies #
+- Move 2 Armies #
+- Add 1 Army #
+- Add 2 Armies ** #
+
+Score Chart:
+
+1 = 1pt
+2 = 2pts
+3 = 3pts
+4 = 5pts
+
+Wild (3 cards)
+
+- Move 2 Armies #
+- Move 2 Armies #
+- Add 2 Armies #
+
+Total: 42 Cards
