@@ -1,0 +1,15 @@
+72 carte
+20 cacca (5 tipi)
+
+52
+ 1 Scopa
+2 cibo/acuq
+2 mosca/pala
+2 mosca
+2        spray
+2 pala
+2 carriola
+
+20animali
+16cibi
+16acque
